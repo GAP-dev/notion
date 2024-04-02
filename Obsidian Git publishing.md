@@ -1,0 +1,2 @@
+- Community Plug-in과 GitHub 세팅을 통해서 정적 HTML로 퍼블리쉬가 가능하다고 하는데 성공하지 못했음
+-  
